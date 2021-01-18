@@ -1,0 +1,5 @@
+Wyliczyć wskaźnik Satysfakcja z życia dla dwóch innych krajów poza Cyprem (dla których nie ma danych a jest PKB) wyliczona w ten sam sposób jak w przypadku Cypru (regresja liniowa, k-sąsiadów, z niepełnymi danymi, z całkowitymi danymi, z regularyzacją - zostawiamy hiperparametry)
+
+
+
+Wybrać trzy inne wskaźniki i wyliczyć dla Cypru oraz wybranych dwóch wcześniej krajów - tak jak satysfakcja z życia dla Cypru (regresja liniowa, k-sąsiadów, z niepełnymi danymi, z całkowitymi danymi, opcjonalnie regularyzacja - dla wybitnie zainteresowanych - estymacja manualna hiperparametrów)
